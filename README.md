@@ -1,12 +1,30 @@
-- 👋 Hi, I’m @yousuf-ali1
-- 👀 I’m interested in programming, machine learning, and web development.
-- 🌱 I’m currently pursuing my BTECH in IT.
-- 💞️ I’m looking to collaborate on open-source projects and machine learning models.
-- 📫 How to reach me: https://www.linkedin.com/in/yousuf-ali11/.
-- ⚡ Fun fact: I enjoy reading and solving complex puzzles in my free time.
+# 👋 Hi, I'm Yousuf Ali
 
-Would you like to add or change anything in this template?
-<!---
-yousuf-ali1/yousuf-ali1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎯 Aspiring Data Analyst with a strong focus on turning data into actionable insights.
+
+📊 I have hands-on experience in:
+- SQL (data querying & analysis)
+- Power BI & Tableau (interactive dashboards)
+- Excel (data cleaning, pivot tables, reporting)
+
+📈 Key Projects:
+- 📌 Finance Dashboard (Power BI) – Tracked sales, profit, and KPIs
+- 📌 Superstore Analytics (Tableau) – Identified trends and loss-making areas
+- 📌 ClassicModels SQL Analysis – Extracted business insights using advanced SQL queries
+- 📌 Sales Dashboard (Excel) – Analyzed regional and product performance
+
+🧠 I enjoy solving real-world business problems using data and continuously improving my analytical skills.
+
+🌱 Currently learning:
+- Advanced SQL
+- Data storytelling & visualization
+
+🤝 Open to:
+- Data Analyst roles
+- Internship opportunities
+- Collaboration on data-driven projects
+
+📫 Connect with me:
+- LinkedIn: https://www.linkedin.com/in/yousuf-ali11/
+
+⚡ Fun fact: I enjoy analyzing patterns and solving problems, both in data and in real life.
